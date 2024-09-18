@@ -4,7 +4,8 @@
 
 Este projeto é um estudo fascinante sobre codificação com IA, explorando a criação de um slider inspirado no clássico jogo Doom! Desenvolvido com a ajuda de assistentes de IA como Claude e ChatGPT, este slider oferece uma experiência única e nostálgica. 🤖💻
 
-![Uploading doom_logo.png…]()
+![Uploading doom_logo_git.png…]()
+
 
 ## 🚀 Começando
 
