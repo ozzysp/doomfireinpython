@@ -4,9 +4,14 @@
 
 Este projeto é um estudo fascinante sobre codificação com IA, explorando a criação de um slider inspirado no clássico jogo Doom! Desenvolvido com a ajuda de assistentes de IA como Claude e ChatGPT, este slider oferece uma experiência única e nostálgica. 🤖💻
 
+<<<<<<< HEAD
 ![Uploading doom_logo_git.png…]()
 
 
+=======
+![DooM Logo](amazdoom/doom_logo_git.png)
+![Fire](amazdoom/doom_fire_python.gif)
+>>>>>>> f0896fe (Update README.md file)
 
 ## 🚀 Começando
 
