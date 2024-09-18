@@ -23,7 +23,7 @@ Siga estas instruções para configurar o projeto em sua máquina local.
 1. **Clone o repositório**
    ```
    git clone https://github.com/ozzysp/doomfireinpython.git
-   cd Doom Fire Python
+   cd doomfireinpython
    ```
 
 2. **Crie e ative um ambiente virtual**
@@ -102,7 +102,7 @@ Follow these instructions to set up the project on your local machine.
 1. **Clone the repository**
    ```
    git clone https://github.com/ozzysp/doomfireinpython.git
-   cd Doom Fire Python
+   cd doomfireinpython
    ```
 
 2. **Create and activate a virtual environment**
